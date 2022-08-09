@@ -1,5 +1,5 @@
 <script lang='ts'>
-	import '../app.css';
+	import '../app.css'
 	import Footer from '$lib/components/Footer.svelte'
 	import Head from '$lib/components/Head.svelte'
 	import Kofi from '$lib/components/Kofi.svelte'
@@ -13,8 +13,8 @@
 	})
 
 	const url = 'https://svelte-duply.pickyzz.dev'
-	const title = 'Svelte-duply'
-	const description = 'Sveltekit Template'
+	const title = 'อยากกินไร ?'
+	const description = 'อยากกินไร ?'
 	const imageUrl = `${url}/screenshot.png`
 </script>
 

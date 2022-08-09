@@ -1,15 +1,10 @@
-# SVELTE-DUPLY sveltekit template
+# อยากกินไร ?
 
-simple sveltekit template for single page app building.
-
-## Setup
-
-- Clone/fork this repository (or click `use this template`)
-- `yarn` or `npm install`
-- `yarn dev` or `npm run dev`
+เขียนขึ้นมาเพื่อสนองความคิดไม่ออกของตัวเองว่าในแต่ละมื้อจะกินอะไรดี
 
 ## Build from
 
+- [svelte-duply template](https://github.com/pickyzz/svelte-duply)
 - Sveltekit + vite (Typescript)
 - [Tailwindcss](https://tailwindcss.com)
 - [DaisyUi](https://daisyui.com)
