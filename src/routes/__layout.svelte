@@ -12,7 +12,7 @@
 		themeChange(false)
 	})
 
-	const url = 'https://svelte-duply.pickyzz.dev'
+	const url = 'https://yakginrai.pickyzz.dev'
 	const title = 'อยากกินไร ?'
 	const description = 'อยากกินไร ?'
 	const imageUrl = `${url}/screenshot.png`

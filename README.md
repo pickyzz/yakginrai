@@ -8,3 +8,7 @@
 - Sveltekit + vite (Typescript)
 - [Tailwindcss](https://tailwindcss.com)
 - [DaisyUi](https://daisyui.com)
+
+## Contribute
+
+สามารถเพิ่มเมนูอาหารได้ที่ [Meal.ts](https://github.com/pickyzz/yakginrai/blob/main/src/lib/Meals.ts) และเปิด Pull Request มาได้เสมอ
