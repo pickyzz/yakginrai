@@ -14,7 +14,7 @@
 
 	const url = 'https://yakginrai.pickyzz.dev'
 	const title = 'อยากกินไร ?'
-	const description = 'อยากกินไร ?'
+	const description = 'ให้เราช่วยคิดสิว่ามื้อนี้จะกินอะไรดี'
 	const imageUrl = `${url}/screenshot.png`
 </script>
 

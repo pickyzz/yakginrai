@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { Facebook, Twitter, Line } from 'svelte-share-buttons-component'
+    import { Facebook, Twitter } from 'svelte-share-buttons-component'
   
     export let url: string
     export let title: string
